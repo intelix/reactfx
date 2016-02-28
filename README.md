@@ -1,5 +1,5 @@
 
-# Single Dealer Platform framework
+# FX Single Dealer Platform framework
 
 !["screen1"](https://raw.githubusercontent.com/intelix/reactfx/master/screen1.png "screen1")
 
