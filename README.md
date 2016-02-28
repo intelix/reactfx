@@ -23,6 +23,8 @@ Client features:
 * Multiple tile sizes
 * (coming soon) RFS tickets
 
-## Contact us at reactfx@intelix.com.au for live demo
+## Demo?
+
+The project is not an open source (yet) - please contact us at reactfx@intelix.com.au for live demo
 
 Powered by [Reactive Services](https://github.com/intelix/reactiveservices)
