@@ -8,7 +8,7 @@ Platform features:
 * Scalable and fault tolerant by design
 * Low latency and high throughput
 * End-to-end non-blocking backpressure 
-* Powered by [Reactive Services](https://github.com/intelix/reactiveservices)
+* Reactive Architeture
 * Modular design, extensible UI
 
 Client features:
@@ -24,3 +24,5 @@ Client features:
 * (coming soon) RFS tickets
 
 ## Contact us at reactfx@intelix.com.au for live demo
+
+Powered by [Reactive Services](https://github.com/intelix/reactiveservices)
